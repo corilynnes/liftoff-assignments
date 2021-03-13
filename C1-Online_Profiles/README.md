@@ -11,7 +11,7 @@ For this assignment you will need to upload your resume and provide links to you
 https://github.com/corilynnes
  
 ### LinkedIn
-https://www.linkedin.com/in/corinna-steiner-bb9251a8/
+https://www.linkedin.com/in/corinna-s-bb9251a8
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
